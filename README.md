@@ -1,1 +1,1 @@
-# rust-thing
+rust-thing
